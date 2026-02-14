@@ -4,69 +4,69 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 241,
+          "green": 104,
+          "blue": 43,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#F1682B",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
+          "luminance": 0.29,
+          "luminancePercent": "29%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 6.76,
           "wcagRating": "AA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 180,
+          "green": 78,
+          "blue": 32,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#b44e20",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.15,
+          "luminancePercent": "15%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "contrastRatio": 5.18,
           "wcagRating": "AA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 0,
+          "green": 178,
+          "blue": 241,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#00B2F1",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "luminance": 0.38,
+          "luminancePercent": "38%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 8.64,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 13,
+          "green": 131,
+          "blue": 173,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#0d83ad",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "luminance": 0.19,
+          "luminancePercent": "19%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 4.87,
+          "wcagRating": "AA"
         }
       },
       {
@@ -123,17 +123,17 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 241,
+          "green": 104,
+          "blue": 43,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#F1682B",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "luminance": 0.29,
+          "luminancePercent": "29%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 6.76,
           "wcagRating": "AA"
         }
       }
@@ -141,76 +141,76 @@
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'sans-serif', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
         "font": "'Montserrat', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://oaklandsmilestation.com/wp-content/uploads/2021/06/Oakland-Smile-Station.png",
     "logo_config": {
       "type": "url",
       "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "url": "https://oaklandsmilestation.com/wp-content/uploads/2021/06/Oakland-Smile-Station.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
-          "count": 3
-        },
-        {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
-          "count": 2
-        },
-        {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
-          "count": 2
-        },
-        {
-          "hex": "#090707",
+          "hex": "#0c0b0e",
           "luminosity_percent": 0,
-          "count": 2
+          "count": 41
         },
         {
-          "hex": "#070507",
+          "hex": "#838381",
+          "luminosity_percent": 23,
+          "count": 35
+        },
+        {
+          "hex": "#0b0a0d",
           "luminosity_percent": 0,
-          "count": 2
+          "count": 22
         },
         {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
+          "hex": "#ffffff",
+          "luminosity_percent": 100,
+          "count": 20
         },
         {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#0a090c",
+          "luminosity_percent": 0,
+          "count": 20
         },
         {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#0d0c0f",
+          "luminosity_percent": 0,
+          "count": 16
+        },
+        {
+          "hex": "#08070a",
+          "luminosity_percent": 0,
+          "count": 13
+        },
+        {
+          "hex": "#717476",
+          "luminosity_percent": 17,
+          "count": 11
+        },
+        {
+          "hex": "#0e0d10",
+          "luminosity_percent": 0,
+          "count": 10
+        },
+        {
+          "hex": "#070609",
+          "luminosity_percent": 0,
+          "count": 10
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
+      "dominant_color": "#0c0b0e",
+      "avg_luminosity": 15.1,
       "is_light": false
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://oaklandsmilestation.com/wp-content/themes/mts_schema/images/favicon.png"
   }
 }
